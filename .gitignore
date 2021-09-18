@@ -4,3 +4,8 @@ bin
 appsettings.json
 *.db
 API/obj/
+/.project
+
+Infrastructure/Data/Migrations/
+
+skinet.sln
