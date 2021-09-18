@@ -3,3 +3,4 @@ bin
 .idea/
 appsettings.json
 *.db
+API/obj/
